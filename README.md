@@ -1,6 +1,8 @@
 #  Electric Vehicle Adoption Analysis Dashboard
 
-![Elctric-Vehicle- Image](https://github.com/user-attachments/assets/05de6992-ec64-4710-a5ae-c4da934558ea)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/05de6992-ec64-4710-a5ae-c4da934558ea" alt="Electric Vehicle Image" width="800"/>
+</p>
 
 This Power BI project analyzes electric vehicle adoption trends in the United States using vehicle registration data. It provides valuable insights into the growth of Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs), regional distribution, manufacturer dominance, eligibility for Clean Alternative Fuel Vehicle (CAFV) incentives, and more.
 
@@ -40,9 +42,11 @@ The dataset contains information on electric vehicles registered in various US s
 
 ##  Dashboard Preview
 
-![EV Dashboard](https://github.com/user-attachments/assets/c1f06cee-4665-4b47-9153-7758468e8122)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c1f06cee-4665-4b47-9153-7758468e8122" alt="EV Dashboard" width="800"/>
+</p>
 
-# 📊 What the Dashboard shows;
+# 📊 What the Dashboard Shows
 
 - **Total Vehicles by Model Year (From 2010 Onwards)**: Track adoption growth over time.
 - **Total Vehicles by State**: Understand EV distribution across different states.
@@ -77,4 +81,3 @@ The dataset contains information on electric vehicles registered in various US s
 5. **Expand Charging Infrastructure**: Use state-wise EV data to prioritize new charging station installations in high-density regions.
 
 6. **Monitor Trends Post-2017**: The surge in EV adoption after 2017 needs continuous monitoring to evaluate long-term sustainability and forecast future demand.
-
