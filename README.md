@@ -4,19 +4,17 @@
   <img src="https://github.com/user-attachments/assets/05de6992-ec64-4710-a5ae-c4da934558ea" alt="Electric Vehicle Image" width="800"/>
 </p>
 
+##  Project Overview
 This Power BI project analyzes electric vehicle adoption trends in the United States using vehicle registration data. It provides valuable insights into the growth of Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs), regional distribution, manufacturer dominance, eligibility for Clean Alternative Fuel Vehicle (CAFV) incentives, and more.
 
 ##  Problem Statement
 
 The aim of this project is to assess the growth, technological advancements, and distribution of electric vehicles across the US by examining:
 
-###  KPI's Requirement:
+**KPI's Requirement**
 
-1. **Total Vehicles**
-   - Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market's size and growth.
-2. **Average Electric Range**
-   - Determine the average electric range of the electric vehicles in the dataset to gauge technological advancements and efficiency of EVs.
-
+1. **Total Vehicles**: Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market's size and growth.
+2. **Average Electric Range**: Determine the average electric range of the electric vehicles in the dataset to gauge technological advancements and efficiency of EVs.
 3. **Total BEV Vehicles and % of Total BEV Vehicles**
    - Identify and analyze the total number of Battery Electric Vehicles (BEVs).
    - Calculate the percentage of BEVs relative to the total number of EVs, providing insights into the dominance of fully electric models.
@@ -39,6 +37,7 @@ The dataset contains information on electric vehicles registered in various US s
 - **Geolocation (State, City, Latitude & Longitude)**
 - **Electric Utility Provider**
 - **Census Tract**
+---
 
 ##  Dashboard Preview
 
@@ -46,7 +45,7 @@ The dataset contains information on electric vehicles registered in various US s
   <img src="https://github.com/user-attachments/assets/c1f06cee-4665-4b47-9153-7758468e8122" alt="EV Dashboard" width="800"/>
 </p>
 
-# 📊 What the Dashboard Shows
+# 📊 Visualizations
 
 - **Total Vehicles by Model Year (From 2010 Onwards)**: Track adoption growth over time.
 - **Total Vehicles by State**: Understand EV distribution across different states.
