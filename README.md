@@ -1,4 +1,4 @@
-#  Electric Vehicle Adoption Analysis Dashboard
+#  Electric Vehicle Adoption Analysis 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/05de6992-ec64-4710-a5ae-c4da934558ea" alt="Electric Vehicle Image" width="800"/>
